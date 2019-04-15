@@ -1,0 +1,4 @@
+﻿  huffman_decode.cpp
+c:\users\ahmed_martin\source\repos\huffman_decode\huffman_decode\huffman_decode.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed_martin\source\repos\huffman_decode\huffman_decode\huffman_decode.cpp(122): warning C4018: '<': signed/unsigned mismatch
+  huffman_decode.vcxproj -> C:\Users\Ahmed_Martin\source\repos\huffman_decode\Debug\huffman_decode.exe
